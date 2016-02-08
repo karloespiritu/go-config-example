@@ -1,4 +1,4 @@
-# Sample Go Application using TOML and VIPER
+# Sample Go Application using TOML and Viper
 
 This is the code example I used in my blog post - "[Handling Configuration Files in Go](karloespiritu.com/configuration-files-go/)". This is a sample Go application that reads a TOML configuration file using [Viper](https://github.com/spf13/viper).
 
